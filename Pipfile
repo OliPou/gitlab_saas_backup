@@ -1,0 +1,13 @@
+[dev-packages]
+
+[packages]
+python-gitlab = "*"
+pyyaml = "*"
+requests = "*"
+pipfile = "*"
+shell = "*"
+pytz = "*"
+pyfiglet = "*"
+
+[requires]
+python_version = "3"
